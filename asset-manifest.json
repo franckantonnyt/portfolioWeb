@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.1660ee2c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1660ee2c.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.8f6ed77f.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8f6ed77f.js.map",
+    "static/js/2.5af672dc.chunk.js": "/portfolio/static/js/2.5af672dc.chunk.js",
+    "static/js/2.5af672dc.chunk.js.map": "/portfolio/static/js/2.5af672dc.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/js/2.5af672dc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5af672dc.chunk.js.LICENSE.txt",
+    "static/media/BeTheHero2.62f8affb.png": "/portfolio/static/media/BeTheHero2.62f8affb.png",
+    "static/media/CSS3.69c6bcbc.png": "/portfolio/static/media/CSS3.69c6bcbc.png",
+    "static/media/background-grama2.3d2c49ae.png": "/portfolio/static/media/background-grama2.3d2c49ae.png",
+    "static/media/backgroundProfile1.f20c4fbc.png": "/portfolio/static/media/backgroundProfile1.f20c4fbc.png",
+    "static/media/backgroundProfile2.f6c390c8.png": "/portfolio/static/media/backgroundProfile2.f6c390c8.png",
+    "static/media/card-modal.ce2a44ca.png": "/portfolio/static/media/card-modal.ce2a44ca.png",
+    "static/media/double-arrow.441968fb.png": "/portfolio/static/media/double-arrow.441968fb.png",
+    "static/media/graphQL.98149dd9.png": "/portfolio/static/media/graphQL.98149dd9.png",
+    "static/media/happyBackground.39db61de.png": "/portfolio/static/media/happyBackground.39db61de.png",
+    "static/media/javaScript.36666ea1.png": "/portfolio/static/media/javaScript.36666ea1.png",
+    "static/media/logoproffys2.daba4357.png": "/portfolio/static/media/logoproffys2.daba4357.png",
+    "static/media/nodejs.acae0b57.png": "/portfolio/static/media/nodejs.acae0b57.png",
+    "static/media/pokemonGraphQl.db14888a.png": "/portfolio/static/media/pokemonGraphQl.db14888a.png",
+    "static/media/react native.d2cd8f17.png": "/portfolio/static/media/react native.d2cd8f17.png",
+    "static/media/reactJs.c464c2dc.png": "/portfolio/static/media/reactJs.c464c2dc.png",
+    "static/media/styledComponentsIcon.a07705ec.png": "/portfolio/static/media/styledComponentsIcon.a07705ec.png",
+    "static/media/typeScript.b3ffd331.png": "/portfolio/static/media/typeScript.b3ffd331.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f6ed77f.js",
+    "static/js/2.5af672dc.chunk.js",
+    "static/js/main.1660ee2c.chunk.js"
+  ]
+}
